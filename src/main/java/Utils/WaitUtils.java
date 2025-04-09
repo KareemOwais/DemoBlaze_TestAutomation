@@ -1,4 +1,4 @@
-package DemoBlaze.Utils;
+package Utils;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;

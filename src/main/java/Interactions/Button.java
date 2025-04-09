@@ -2,7 +2,7 @@ package Interactions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import static DemoBlaze.Utils.WaitUtils.waitForElementToBeClickable;
+import static Utils.WaitUtils.waitForElementToBeClickable;
 
 public class Button extends Element {
     // Constructor

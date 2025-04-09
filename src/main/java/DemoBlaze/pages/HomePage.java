@@ -7,7 +7,7 @@ import Interactions.Textbox;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import static DemoBlaze.Utils.WaitUtils.waitForElementToBeVisible;
+import static Utils.WaitUtils.waitForElementToBeVisible;
 
 public class HomePage {
     //Locaters

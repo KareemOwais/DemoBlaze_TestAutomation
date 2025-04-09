@@ -5,8 +5,8 @@ import Interactions.Button;
 import Interactions.Label;
 import org.openqa.selenium.By;
 
-import static DemoBlaze.Utils.WaitUtils.HandleAlert;
-import static DemoBlaze.Utils.WaitUtils.waitForElementToBeVisible;
+import static Utils.WaitUtils.HandleAlert;
+import static Utils.WaitUtils.waitForElementToBeVisible;
 import static DemoBlaze.pages.HomePage.Products;
 import static DemoBlaze.pages.HomePage.ProductsPrices;
 

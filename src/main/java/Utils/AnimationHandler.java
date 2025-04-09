@@ -1,11 +1,11 @@
-package DemoBlaze.Utils;
+package Utils;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import static DemoBlaze.Utils.WaitUtils.waitForElementToBePresent;
+import static Utils.WaitUtils.waitForElementToBePresent;
 
 public class AnimationHandler {
     public static void waitForAnimationComplete(WebDriver driver, By locator) {

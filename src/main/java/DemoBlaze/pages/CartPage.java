@@ -10,8 +10,7 @@ import org.openqa.selenium.WebElement;
 
 import java.util.*;
 
-import static DemoBlaze.Utils.AnimationHandler.waitForSuccessAnimation;
-import static DemoBlaze.Utils.WaitUtils.*;
+import static Utils.AnimationHandler.waitForSuccessAnimation;
 
 
 public class CartPage {
